@@ -12,3 +12,4 @@ update 3 in vs
 2) git add . : add your files 
 3) git status : check status
 4) git commit -m "Message" : commit
+5) git push origin main : push 
