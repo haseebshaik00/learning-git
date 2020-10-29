@@ -1,3 +1,4 @@
+#Day 1
 #Demo
 First Day
 
@@ -7,6 +8,7 @@ Update
 #update 3
 update 3 in vs
 
+#Day 2
 #commands
 1) git clone <url> : clone a repo
 2) git add . : add your files to repo
