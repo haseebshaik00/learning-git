@@ -57,5 +57,5 @@ points to the previous commit and unstages the changes too
 
 # Forking in git
 #forking is done to use others code or to contribute to others code
-#fork part also done, forked gsreemanth's repo and pull request but he didn't accept nvm
+#fork part also done, forked gsreemanth's repo and pulled a request but he didn't accept nvm
 #keep coding!
