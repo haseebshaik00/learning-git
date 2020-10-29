@@ -40,3 +40,6 @@ update 3 in vs
 #testing merge conflict
 
 #yes got a conflict, accepted both changes and will move to the undoing git part
+
+# Day 3
+# Undoing in git
