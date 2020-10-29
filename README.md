@@ -30,3 +30,5 @@ update 3 in vs
 
 #Added this text while I am on the feature1 branch
 #--set-upstream is same as -u
+
+#a test for feature3 <git merge master>
