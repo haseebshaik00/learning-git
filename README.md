@@ -22,6 +22,6 @@ update 3 in vs
 1) git branch : shows all the branches and the star indicates the current branch
 2) git checkout -b <branch-name> : creates a new branch
 3) git checkout <branch name> : switch in between branches
-
+4) git diff <branch name> : shows the changes
 
 #Added this text while I am on the feature1 branch
