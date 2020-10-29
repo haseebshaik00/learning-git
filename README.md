@@ -26,6 +26,7 @@ update 3 in vs
 5) git diff : shows the changes (in red color) while you are in new branch
 6) q : to get out of unchnaged type in cmd
 7) git branch -d <branch name> : delete a branch
+8) git merge master : merge the current branch to the master branch 
 
 #Added this text while I am on the feature1 branch
 #--set-upstream is same as -u
