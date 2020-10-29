@@ -17,3 +17,11 @@ update 3 in vs
 5) git push origin main : push the repo to github
 
 #Go back to the root folder to see another folder whose repo is created locally
+
+#Branching
+1) git branch : shows all the branches and the star indicates the current branch
+2) git checkout -b <branch-name> : creates a new branch
+3) git checkout <branch name> : switch in between branches
+
+
+#Added this text while I am on the feature1 branch
