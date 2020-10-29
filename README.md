@@ -35,3 +35,5 @@ update 3 in vs
 #a test for feature3 <git merge master>
 #updating from feature3 the above test shows merge main is to merge main to the current branch to stay updated with the status of main
 #now will push this updated lines in feature3 and pull from main
+
+#added a new line on the same place of test for a merge conflict hence when i write <git merge main> it should display a conflict
