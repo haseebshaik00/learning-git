@@ -27,6 +27,7 @@ update 3 in vs
 6) q : to get out of unchnaged type in cmd
 7) git branch -d <branch name> : delete a branch
 8) git merge main : merge main to the current branch to stay updated with the status of main 
+9) git push --set-upstream origin <branch-name> : to push a new branch
 
 #Added this text while I am on the feature1 branch
 #--set-upstream is same as -u
