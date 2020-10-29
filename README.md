@@ -22,8 +22,10 @@ update 3 in vs
 1) git branch : shows all the branches and the star indicates the current branch
 2) git checkout -b <branch-name> : creates a new branch
 3) git checkout <branch name> : switch in between branches
-4) git diff <branch name> : shows the changes (in red color)
-5) q : to get out of unchnaged type in cmd
+4) git diff <branch name> : shows the changes (in red color) while you are in main branch
+5) git diff : shows the changes (in red color) while you are in new branch
+6) q : to get out of unchnaged type in cmd
+7) git branch -d <branch name> : delete a branch
 
 #Added this text while I am on the feature1 branch
 #--set-upstream is same as -u
