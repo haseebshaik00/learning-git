@@ -15,3 +15,5 @@ update 3 in vs
 3) git status : check status of the repo
 4) git commit -m "Message" : commit your repo
 5) git push origin main : push the repo to github
+
+#Go back to the root folder to see another folder whose repo is created locally
