@@ -43,3 +43,9 @@ update 3 in vs
 
 # Day 3
 # Undoing in git
+
+1) undoing a stage : undoing git add .
+just write git reset if you want specify a file name, can check using git status command
+
+2) undoing a commit : git reset HEAD~1
+points to the previous commit and unstages the changes too
