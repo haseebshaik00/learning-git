@@ -54,3 +54,8 @@ points to the previous commit and unstages the changes too
 1) git log : displays the log of commits
 2) git reset <commit-hash-code> : takes back to that commit
 3) git reset --hard <commit-hash-code> : erases the latest updates
+
+# Forking in git
+#forking is done to use others code or to contribute to others code
+#fork part also done, forked gsreemanth's repo and pull request but he didn't accept nvm
+#keep coding!
